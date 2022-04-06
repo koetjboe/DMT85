@@ -2,7 +2,7 @@
 Repository of group 85 in the VU course Data Mining Techniques
 
 Column definitions:\
-\t id: the user\
-\t time: timestamp of measurement\
-\t variable: measured entity\
-\t value: value of the entity
+&ensp; id: the user\
+&ensp; time: timestamp of measurement\
+&ensp; variable: measured entity\
+&ensp; value: value of the entity
